@@ -10,3 +10,5 @@ A place where all of our class demos can be found.
 - Iterator operations / higher order functions (filter)
 - Loops (for, for of, for in, while, do while)
 - Functions (declared, function expressions, arrow functions)
+
+Hilsen, Warren
