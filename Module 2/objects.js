@@ -80,3 +80,24 @@ for (let key in product1) {
 
 
 console.log(product1["type"])
+
+
+let professor = {
+    firstName: "Warren",
+    lastName: "West",
+    age: 32,
+}
+
+for (let key in professor)
+    console.log(professor[key])
+
+professor.age
+professor.firstName
+professor.lastName
+
+
+class Professor {
+
+}
+
+const warren = new Professor()
